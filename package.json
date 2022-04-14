@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-tailwindui",
+  "name": "nuxt-vue",
   "version": "1.0.0",
-  "description": "Nuxt.js example with TailwindCSS module and TailwindUI Components.",
+  "description": "",
   "author": "Atinux",
   "private": true,
   "scripts": {
@@ -18,10 +18,5 @@
     "nuxt": "2.15.3",
     "postcss": "8.2.8"
   },
-  "keywords": [
-    "nuxt",
-    "nuxt-module",
-    "tailwindcss",
-    "tailwindui"
-  ]
+  "keywords": []
 }
